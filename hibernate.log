@@ -1,0 +1,19 @@
+2024-05-30 17:16:03,318 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Cannot delete or update a parent row: a foreign key constraint fails (`pie`.`produto_has_venda`, CONSTRAINT `produto_has_venda_ibfk_1` FOREIGN KEY (`id_produto_fk`) REFERENCES `produtos` (`id`))
+2024-05-30 17:18:02,184 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Cannot delete or update a parent row: a foreign key constraint fails (`pie`.`produto_has_venda`, CONSTRAINT `produto_has_venda_ibfk_1` FOREIGN KEY (`id_produto_fk`) REFERENCES `produtos` (`id`))
+2024-05-30 17:19:45,664 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Cannot delete or update a parent row: a foreign key constraint fails (`pie`.`produto_has_venda`, CONSTRAINT `produto_has_venda_ibfk_1` FOREIGN KEY (`id_produto_fk`) REFERENCES `produtos` (`id`))
+2024-05-30 17:22:36,708 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Cannot delete or update a parent row: a foreign key constraint fails (`pie`.`produto_has_venda`, CONSTRAINT `produto_has_venda_ibfk_1` FOREIGN KEY (`id_produto_fk`) REFERENCES `produtos` (`id`))
+2024-05-30 19:54:53,315 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Access denied for user 'root'@'localhost' (using password: YES)
+2024-05-30 19:57:39,854 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Access denied for user 'root'@'localhost' (using password: YES)
+2024-05-30 20:27:28,668 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Access denied for user 'root'@'localhost' (using password: YES)
+2024-05-31 08:53:21,460 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Access denied for user 'root'@'localhost' (using password: YES)
+2024-05-31 10:01:24,433 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Access denied for user 'root'@'localhost' (using password: YES)
+2024-05-31 16:44:57,517 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-06-01 11:38:22,047 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'id_forma_pagamento_fk' cannot be null
+2024-06-01 12:05:21,507 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'id_forma_pagamento_fk' cannot be null
+2024-06-01 12:36:12,884 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'nfe' cannot be null
+2024-06-01 14:27:45,804 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'nfe' cannot be null
+2024-06-01 14:34:43,317 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'id_usuario_fk' cannot be null
+2024-06-01 15:07:31,294 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'id_usuario_fk' cannot be null
+2024-06-01 15:08:54,299 [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'id_usuario_fk' cannot be null

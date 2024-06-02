@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d82f08df-0675-4729-b127-3047556ec46c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/FormaPagamentoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ProdutoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/VendaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Entity/ProdutoHasVenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Repository/FormaPagamentoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Repository/ProdutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Repository/VendaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Service/FormaPagamentoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Service/ProdutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Service/VendaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate.log" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Entity/FormaPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Entity/FormaPagamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Entity/Produtos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Entity/Produtos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Entity/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Entity/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Entity/Vendas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Entity/Vendas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Repository/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Repository/UsuarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Service/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Service/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2hKfGJ6Xry455DT4HJXdDVSIofv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d82f08df-0675-4729-b127-3047556ec46c" name="Changes" comment="" />
+      <created>1717347596537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717347596537</updated>
+    </task>
+    <servers />
+  </component>
+</project>

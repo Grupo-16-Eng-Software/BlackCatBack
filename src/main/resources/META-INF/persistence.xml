@@ -1,0 +1,34 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"
+             version="2.2">
+
+    <persistence-unit name="BancoPie">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>model.Entity.Usuario</class>
+        <class>model.Entity.Produtos</class>
+        <class>model.Entity.Vendas</class>
+        <class>model.Entity.FormaPagamento</class>
+
+
+        <properties>
+            <!-- Configurações do banco de dados -->
+            <property name="javax.persistence.jdbc.driver"
+                      value="com.mysql.cj.jdbc.Driver" />
+            <property name="javax.persistence.jdbc.url"
+                      value="jdbc:mysql://localhost:3306/integrador" />
+            <property name="javax.persistence.jdbc.user" value="root" />
+            <property name="javax.persistence.jdbc.password" value="root" />
+
+            <!-- Configurações do Hibernate -->
+            <property name="hibernate.dialect"
+                      value="org.hibernate.dialect.MySQLDialect" />
+            <property name="hibernate.show_sql" value="true" /> <!-- Para exibir
+			SQL no console -->
+            <property name="hibernate.hbm2ddl.auto" value="none" /> <!--
+			Atualiza o esquema do banco de dados -->
+            <property name="hibernate.default_schema" value="teste" /> <!--
+			Define o schema padrão -->
+        </properties>
+    </persistence-unit>
+</persistence>
